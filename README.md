@@ -1,5 +1,8 @@
 # Data files for the *nCine* project
 
+You can use the `copyAndroid` script to push data with `adb` to the `$EXTERNAL_STORAGE/ncine` directory on your Android device.
+The `deleteAndroid` script, instead, deletes the `$EXTERNAL_STORAGE/ncine` directory from your Android device.
+
 ## Fonts
 
 Bitmap and descriptor files exported with the "*Bitmap font generator*" from AngelCode: http://www.angelcode.com/products/bmfont/
@@ -23,4 +26,4 @@ Bitmap and descriptor files exported with the "*Bitmap font generator*" from Ang
 
 ## SVG files
 
-- `circle.svg`, `pentagon.svg`, `square.png` and `triangle.svg` have been created by Angelo Theodorou for the nCine project and are distributed under the terms of the *Creatibve Commons Attribution-ShareAlike 4.0 International License*.
+- `circle.svg`, `pentagon.svg`, `square.png` and `triangle.svg` have been created by Angelo Theodorou for the nCine project and are distributed under the terms of the *Creative Commons Attribution-ShareAlike 4.0 International License*.
