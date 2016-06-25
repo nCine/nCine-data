@@ -21,9 +21,11 @@ Bitmap and descriptor files exported with the "*Bitmap font generator*" from Ang
 
 - `smoke_256.png` is **smoke_256a.png** from *0 A.D.* by *Wildfire Games* and it is distributed under the terms of the *Creative Commons Attribution-ShareAlike 3.0 License*
 - `spritesheet.png` is a cropped version of **Spaceship Game - Sprites** by *Henrique "7Soul1" Lazarini* and it is distributed under the terms of the *Creative Commons Attribution-ShareAlike License*
-- `texture1.png`, `texture2.png`, `texture3.png` and `texture4.png` have been created by Angelo Theodorou for the nCine project and are distributed under the terms of the *Creatibve Commons Attribution-ShareAlike 4.0 International License*.
+- `texture1.png`, `texture2.png`, `texture3.png` and `texture4.png` have been created by Angelo Theodorou for the nCine project and are distributed under the terms of the *Creative Commons Attribution-ShareAlike 4.0 International License*.
   The derived files (`spritesheet.png`, images under the `testformats` directory and the same images in the WebP format) are also licensed under the same license.
 
 ## SVG files
 
+- `logo.svg` has been created by Luz Maria Barros Rivas for the nCine project and is distributed under the terms of the *Creative Commons Attribution-ShareAlike 4.0 International License*.
+  The derived files (images under the `icons` directory) are also licensed under the same license.
 - `circle.svg`, `pentagon.svg`, `square.png` and `triangle.svg` have been created by Angelo Theodorou for the nCine project and are distributed under the terms of the *Creative Commons Attribution-ShareAlike 4.0 International License*.
