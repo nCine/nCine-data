@@ -26,6 +26,6 @@ Bitmap and descriptor files exported with the "*Bitmap font generator*" from Ang
 
 ## SVG files
 
-- `logo.svg` has been created by Luz Maria Barros Rivas for the nCine project and is distributed under the terms of the *Creative Commons Attribution-ShareAlike 4.0 International License*.
-  The derived files (images under the `icons` directory) are also licensed under the same license.
+- `logo.svg`, `icon.svg`, `banner.svg` and `banner_tv.svg` have been created by Luz Maria Barros Rivas for the nCine project and are distributed under the terms of the *Creative Commons Attribution-ShareAlike 4.0 International License*.
+  The derived files (images under the `icons` directory) are licensed under the same license.
 - `circle.svg`, `pentagon.svg`, `square.png` and `triangle.svg` have been created by Angelo Theodorou for the nCine project and are distributed under the terms of the *Creative Commons Attribution-ShareAlike 4.0 International License*.

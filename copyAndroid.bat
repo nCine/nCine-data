@@ -1,4 +1,4 @@
-echo off
+@echo off
 
 set SHADERS_DIR=../nCine/src/shaders
 for /f "tokens=* USEBACKQ" %%a in (`adb shell "echo -n $EXTERNAL_STORAGE"`) do (set EXTERNAL_STORAGE=%%a)
