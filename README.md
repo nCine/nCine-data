@@ -14,8 +14,11 @@ Bitmap and descriptor files exported with the "*Bitmap font generator*" from Ang
 
 ## Sounds
 
-- `bomb.wav` is **Explode001** by *Mitchel Kniss Jr.* and it is distributed under the terms of the *Creative Commons 0 1.0 Universal License*
-- `music.ogg` is **C64** by *Janne "Skiessi" Sinisalo* and it is distributed under the terms of the *Creative Commons Attribution 3.0 Unported License*
+- `c64.ogg` is **C64** by *Janne "Skiessi" Sinisalo* and it is distributed under the terms of the *Creative Commons Attribution 3.0 Unported License*
+- `chiptune_loop.ogg` is **[Chiptune_Loops/Chiptune Loop Episode 01.wav](https://freesound.org/people/orginaljun/sounds/396960/)** by *orginaljun* and it is distributed under the terms of the *Creative Commons Attribution 3.0 Unported License*
+- `explode.wav` is **[Factory Noise from Gears Of Destruction/Explode001](https://freesound.org/people/mitchelk/sounds/136765/)** by *Mitchel Kniss Jr.* and it is distributed under the terms of the *Creative Commons 0 1.0 Universal License*
+- `waterdrop.wav` is **[aqua/waterdrop24.wav](https://freesound.org/people/junggle/sounds/30341/)** by jazzy.junggle.net and it is distributed under the terms of the *Creative Commons Attribution 3.0 Unported License*
+- `coins.wav` is **[8-bit Video Game Sounds/Coins 1](https://freesound.org/people/ProjectsU012/sounds/341695/)** by ProjectsU012 and it is distributed under the terms of the *Creative Commons Attribution 3.0 Unported License*
 
 ## Textures
 
