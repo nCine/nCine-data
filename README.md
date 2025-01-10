@@ -27,6 +27,7 @@ Bitmap and descriptor files exported with the "*Bitmap font generator*" from Ang
 - `texture1.png`, `texture2.png`, `texture3.png` and `texture4.png` have been created by Angelo Theodorou for the nCine project and are distributed under the terms of the *Creative Commons Attribution-ShareAlike 4.0 International License*.
   The derived files (`spritesheet.png`, images under the `testformats` directory and the same images in the WebP format) are also licensed under the same license.
 - `diffuse.png` is the nCine icon at 256x256 pixels, while `normal.png` has been created with [Laigter](https://github.com/azagaya/laigter) as a normal (RGB) + specular (A) map
+- `bunny.png` is the original BunnyMark sprite by Iain Lobb
 
 ## SVG files
 
